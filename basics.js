@@ -1,6 +1,6 @@
 // variables
-let variab = 'sunny'
-console.log(variab);
+let variable = 'sunny bhai'
+console.log(variable);
 
 //constant
 const interest = 10
